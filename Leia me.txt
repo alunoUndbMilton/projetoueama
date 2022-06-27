@@ -1,0 +1,1 @@
+Instrução de execução1 - Coloque o arquivo "input" junto com  o arquivo execultavel "projetoExecultavel" em uma pasta.2 - Para escolher o metodo a ser usado, abra o arquivo "input" e digite na segunda linha somente as seguintes dados:QuickSort; MergerSort ou BubbleSort. Salve o arquivo txt e execute o "projetoExecultavel".
